@@ -6563,4 +6563,8 @@ button.close {
     display: none !important;
   }
 }
+
+.about_me_text {
+  text-align: left;
+}
 /*# sourceMappingURL=bootstrap.css.map */
