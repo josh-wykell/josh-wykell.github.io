@@ -52,7 +52,7 @@ p {
 }
 
 .bg-primary {
-    background-color: #471705;
+    background-color: #f05f40;
 }
 
 .bg-dark {
@@ -473,8 +473,4 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: #222;
-}
-
-.about_me_text {
-  text-align: left;
 }
