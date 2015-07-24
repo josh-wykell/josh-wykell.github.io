@@ -483,3 +483,17 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #222;
 }
+
+.text-left {
+    max-width: 400px;
+    margin-left: 300px;
+}
+
+.text-right {
+    max-width: 400px;
+    margin-right: 300px;
+}
+
+.text-center .container {
+    max-width: 400px;
+}
