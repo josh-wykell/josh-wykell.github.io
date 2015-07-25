@@ -490,6 +490,12 @@ body {
 }
 
 .text-right {
+    padding-top: 25px;
+    max-width: 500px;
+    float: right;
+}
+
+.resume-right {
     max-width: 400px;
     margin-right: 300px;
 }
