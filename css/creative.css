@@ -58,6 +58,7 @@ p {
 .bg-dark {
     color: #fff;
     background-color: #222;
+    padding-bottom: 150px;
 }
 
 .text-faded {
@@ -497,7 +498,7 @@ body {
 
 .resume-right {
     max-width: 400px;
-    margin-right: 300px;
+    float: right;
 }
 
 .text-center .container {
